@@ -1,0 +1,73 @@
+# A '^' character corresponds to a long pause.
+Bunny: {
+	Name: Constelacao do Coelho
+	SolynDialogue:
+		'''
+		Coelhos! Coisinhas adoraveis.
+		Eu me pergunto quem foi que decidiu que eles deveriam existir em meio as estrelas!
+		'''
+}
+
+EmptyPatchOfSpaceTfAreYouEvenDoing: {
+	Name: Espaco
+	SolynDialogue1: O espaco realmente e uma coisa fascinante, nao e?
+	SolynDialogue2: A ilimitação de tudo isso, realmente! E as estrelas sao todas tao deslumbrantes!
+	SolynDialogue3: Isso nos convida a refletir sobre todos os misterios ainda nao resolvidos, e sobre a nossa pequenez.
+	SolynDialogue4: Mas ei, talvez EXISTA alguma resposta por ai! ^Alguma forca que explique toda essa beleza natural...
+	SolynDialogue5: Ah, mas enfim, voce^ realmente gosta daquele pedaco especifico de espaco, hein? Haha!
+	SolynDialogue6: Voce esta se divertindo?
+	SolynDialogue7: Ei,^ ah,^ talvez devessemos ver o que mais ha por ai? Aquele pedaco especifico e legal e tudo, mas e realmente so um pedaco...
+	SolynDialogue8: ...
+	SolynDialogue9: Bem... ^suponho que nao estou com pressa.
+	SolynDialogue10: ...
+	SolynDialogue11: ...
+	SolynDialogue12: Eu... ^^realmente acho que devemos olhar para outra coisa...
+	SolynDialogue13: ...
+}
+
+GalacticCenter: {
+	Name: O Centro Galactico
+	SolynDialogue:
+		'''
+		O centro galactico?
+		^Bem... sinceramente, nao tenho certeza absoluta do que ha com ele.^ Mas ouvi dizer que e bastante violento la dentro.
+		^^Tenho certeza que seria uma bela visao de se contemplar de perto!
+		'''
+}
+
+MeteorShower: {
+	Name: Chuva de Meteoros
+	SolynDialogue:
+		'''
+		Ah, uau!! Uma chuva de meteoros!
+		Rapido, faca um pedido!
+		'''
+}
+
+Moon: {
+	Name: A Lua
+	SolynDialogue: A lua?? Bobinho, voce ja sabe o que e isso!
+	SolynDialogueBloodMoon:
+		'''
+		Alguns dizem que a luz da lua de sangue e suficiente para deixar as pessoas loucas...^
+		Nao sei, voce se sente louco agora? Eu sei que eu nao!
+		'''
+}
+
+Rift: {
+	Name: ???
+	SolynDialogue:
+		'''
+		Ooh! Essa e uma das minhas favoritas! Essa e a fenda celestial da perdição! E realmente bastante interes-^
+		Espere...^^ hein??
+		'''
+}
+
+ScreamingNebula: {
+	Name: A Nebulosa Gritante
+	SolynDialogue:
+		'''
+		Essa e a nebulosa gritante! Parece tao linda de perto assim...^^
+		Voce sabe... nao tenho certeza por que a chamaram assim. No espaco, nao existe grito, nem som, para falar a verdade!
+		'''
+}

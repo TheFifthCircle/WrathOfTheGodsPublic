@@ -1,0 +1,44 @@
+CuriousHandBuff: {
+	DisplayName: Mao Curiosa
+	Description: Ela acaricia as formas e texturas do seu mundo, desconhecida de tais experiencias por eons
+}
+
+BlackHolePetBuff: {
+	DisplayName: Buraco Negro
+	Description: O cosseno infinito se destila por tras de uma cinquain abencoada
+}
+
+StarPetBuff: {
+	DisplayName: Estrela
+	Description: A luz ira te guiar
+}
+
+BabyNamelessBuff: {
+	DisplayName: Divindade Sem Nome
+	Description: Tudo confere
+}
+
+NilkDebuff: {
+	DisplayName: Nilk
+	Description: ...
+}
+
+StarstrikinglySatiated: {
+	DisplayName: Saciedade Estelar
+	Description: Melhorias estelares em todas as estatisticas e regeneracao de vida aumentada
+}
+
+Glaciated: {
+	DisplayName: Glaciado
+	Description: Voce nao consegue se mover
+}
+
+InvincibilityBuff: {
+	DisplayName: Poder da Flor
+	Description: A bencao do lotus impede que voce seja ferido
+}
+
+AntimatterAnnihilation: {
+	DisplayName: Aniquilacao de Antimateria
+	Description: Voce nao importa
+}

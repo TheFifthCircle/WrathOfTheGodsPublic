@@ -1,0 +1,141 @@
+TerminusHintLine1: Voce fez bem.
+TerminusHintLine2: Agora, busque o Terminus. Seu teste final esta proximo.
+NamelessDeityAscendText: Ascenda.
+NamelessDeityEnterGardenText: Seu teste final comeca.
+NamelessDeityEndScreenText: Voce passou no teste.
+NamelessDeityEndScreenSkipText: Pressione ESCAPE para pular!
+NamelessDeityPlayerDeathText: Voce falhou no teste.
+NamelessDeityEndScreenMainMenuTip: Voce passou no teste. Voce passou no teste. Voce passou no teste. Voce passou no teste. Voce passou no teste. Voce passou no teste. Voce passou no teste. Voce passou no teste. Voce passou no teste. Voce passou no teste.
+NamelessDeityEmptinessSprayerTip: Nao o faca.
+NamelessDeityStatusText: Voce passou no teste.
+NamelessDeityStatusPercentageText: Voce passou no teste:
+CattailText: TABOA COLOCADA!
+PurifierMultiplayerUseAlertText: O Purificador foi implantado por {0}. O mundo sera reiniciado em 15 segundos.
+PurifierEntertainingRantText:
+	'''
+	Oi! Este fundo branco e natural. Seu jogo nao esta quebrado. Por favor, nao reporte a longa espera como um bug. Por favor.
+	Apenas sente-se, relaxe e beba um pouco de agua se nao o fez por um tempo. Ou apenas foque em outra coisa. Voce decide.
+	Enfim, como voce deve ter imaginado, a geracao do mundo esta sendo feita do zero novamente.
+	Vamos falar sobre isso, certo? Por que este processo demora tanto e e tao estranho, especificamente.
+	Para comecar, voce sabia que os mundos de Terraria sao apenas uma grade gigante de 8401x2401 tiles?
+	E dimensionada de forma que todos os mundos ate grande caibam nela.
+	Essa grade existe na memoria desde o momento em que voce inicia o jogo ate o momento em que o fecha. Dezenas de megabytes de memoria, para ser exato.
+	Existe alguma forma de "chunking", ou divisao em subsecoes, mas isso so e realmente usado no multiplayer, porque enviar o mundo inteiro pela rede para os clientes seria terrivel e muito provavelmente causaria crashes.
+	E por isso que quando os servidores estao prestes a cair voce pode cair do mapa. Isso e voce andando fora dos limites de um desses "chunks" porque o servidor nao consegue enviar os outros chunks para voce.
+	Voltando ao worldgen, tudo tem que operar com essa grade. Diferente, digamos, do Minecraft, a geracao do mundo nao e algo que pode ser feito dinamicamente. Ela deve ser feita de uma vez so.
+	Alem disso, muitas das etapas do worldgen sao feitas de forma sincrona, ou uma de cada vez, em vez de ter varias acontecendo ao mesmo tempo.
+	Claro, voce nao poderia fazer o ultimo para tudo, pois em muitos casos voce encontraria conflitos. Mas como voce pode imaginar, ter isso rodando em paralelo onde possivel seria um grande beneficio para o desempenho.
+	Em alguns casos, certas etapas simplesmente nao sao muito eficientes. Certas situacoes podem resultar em etapas de Assentamento de Liquidos levando varios segundos de cada vez.
+	A etapa de Desertificacao pelo que posso perceber se resume a uma quantidade preocupante de loops. Primeiro horizontalmente por todo o deserto.
+	Depois verticalmente de cima para baixo. Depois por todos os "clusters" do deserto, e depois por todos os tiles dentro do cluster.
+	Atribuo a maioria dessas ineficiencias aos modders e nao ao jogo vanilla, no entanto (e tambem sou culpado disso).
+	Uma pratica antiga e estranha que eu costumava fazer era usar recursao (ou seja, ter uma funcao que chama a si mesma. E um pouco estranho de explicar) para calcular toda a agua em uma area para o Mar Sulfuroso, e entao fazer isso muitas e muitas vezes repetidamente.
+	E... uma bagunca.
+	Enfim! Eu continuaria mais, mas e possivel que seu mundo esteja quase totalmente apagado. Nao gostaria de ser cortado abruptamente!
+	Vou te dar este monologo novamente na proxima vez que voce tiver mundos para reiniciar. Ate mais!
+	'''
+LofiMusicCreditText:
+	'''
+	Tocando agora:
+	'worldgen.ogg'
+	Por Moonburn
+	'''
+OgsculeDontAnnoyCalDevsText: Este efeito ogscule nao e adicionado pelo Calamity Mod base. Nao incomode os desenvolvedores deles sobre isso.
+SolynArriveUnknown: Uma pessoa misteriosa chegou na sua cidade...
+SolynDepartUnknown: A pessoa misteriosa partiu...
+SolynArriveKnown: Solyn chegou!
+SolynDepartKnown: Solyn partiu!
+CloudSaveMessage: Desative o salvamento na nuvem se quiser usar o Terminus. Ele tem sido uma fonte de bugs de congelamento com a biblioteca de submundos.
+SolynParadiseReclaimed1: Esta... calmo.
+SolynParadiseReclaimed2: E ainda assim, parece que algo terrivel esta por vir...
+SolynParadiseReclaimed3: Algo... DE BAIXO!!
+SolynParadiseReclaimedSaveText: Eu vou te salvar!
+SolynRunAway: Fuja!
+SolynStayBelowMe: Fique abaixo de mim!
+SolynAvatarReaction1: Espere... o que esta acontecendo??
+SolynAvatarReaction2: MEU DEUS! O QUE DIABOS E AQUILO?!!
+OpenSolynQuestbook: Abrir o Livro de Quests de Solyn
+TelescopeDaytimeText: Esta muito claro agora!
+TelescopeRepairFailText: Materiais insuficientes para reparo!
+AvatarPlayerDeathText: Voce pereceu.
+PermafrostKeepMapIconText: Fortaleza Misteriosa
+SummonMarsButtonText: Invocar (Marte)
+SummonMarsButtonTextInitial: Invocar (Quest de Solyn)
+
+SolynDraedonInteraction: {
+	Draedon1: Hmm! Meu estimado sujeito de teste mais uma vez inicia contato, desta vez ao lado de seu parceiro.
+	Draedon2: Solyn, presumo?
+	Solyn1: Espere... como voce sabe meu nome??
+	Draedon3: A colecao de todo o conhecimento e minha busca final.
+	Draedon4: Seria uma mancha contra mim como cientista nao estudar sua amiga apos nosso ultimo encontro.
+	Solyn2: O que voce quer dizer com-
+	Draedon5: Nao fale mais.
+	Draedon6: Eu sei e possuo precisamente o que voces dois procuram.
+	Draedon7: No entanto, seria improprio de minha parte simplesmente entregar.
+	Draedon8: Desejo examina-los em combate, juntos. Um raro estudo de caso, por assim dizer.
+	Draedon9: Voces lutarao e derrotarao minha maquina mais forte.
+	Draedon10: E em troca, concederei a voces uma muda especial para sua superarma floral.
+	Draedon11: Voces aceitam esta oferta?
+	Solyn3: Faz muito tempo desde que fiz combate.
+	Solyn4: Mas... eu aceito. E voce?
+}
+
+SolynDraedonInteractionSuccessive: Voces estao prontos?
+PlayerDraedonAcceptance: Eu aceito.
+PlayerDraedonAcceptanceSuccessive: Eu estou.
+DraedonAcceptanceResponse: Excelente! Eles chegarao em breve.
+DraedonAcceptanceResponseSuccessive: Excelente.
+SolynGetToMe: Venha ate mim!
+SolynBreakForcefield: Quebre o campo de forca com a estrela!
+SolynBreakForcefield2: Mais um golpe!
+SolynUseMouseButtons: Segure LMB e RMB!
+
+DraedonEndingMonologue: {
+	Draedon1: Maravilhoso.
+	Draedon2: Os dados que voces dois me forneceram sao imaculados.
+	Solyn1: Isso foi... surpreendentemente divertido!
+	Solyn2: Mas... onde esta a muda?
+	Draedon3: Nao se preocupe. Ja cumpri minha parte do acordo.
+	Draedon4: Aquela semente que voces agora possuem era a unica fonte de energia da minha maquina.
+	Draedon5: Estou ansioso para ver como voces a usarao.
+	Draedon6: Boa sorte, e adeus.
+}
+
+DarkRiftVaniquishText: A fenda sombria, vencida em um instante.
+SolynHandwrittenNoteFarewellText:
+	'''
+	Oi!
+
+	Notei quanto esforco voce dedicou para manter minha pequena estante feliz e cheia!
+	Para ser completamente honesta com voce, estou surpresa que voce conseguiu encontrar alguns destes livros. A Biblia do Slime? Que bobo!
+
+	Enfim... se voce esta lendo isto, significa que nao estou mais com voce. Talvez algo com o Genesis tenha dado terrivelmente errado. Seja qual for o caso, tenho certeza que voce ja sabe a resposta.
+
+	Nao e muito, e eu adoraria ter mostrado pessoalmente, mas... quero que voce tenha minha receita secreta de rolinho de canela na minha ausencia.
+	Pense em mim sempre que usar, e no nosso tempo juntos.
+
+
+	-Solyn
+	'''
+SolynBackstory1: Como voce provavelmente ja imaginou, eu... nao sou deste mundo.
+SolynBackstory2: Meu lar e um lugar de vegetacao exuberante, sob a luz suave de dois sois.
+SolynBackstory3: Minha especie e pacifica, conhecedora e reverente.
+SolynBackstory4: Ha muito tempo mantemos nossas tradicoes, cantando cancoes para a melodia das estrelas.
+SolynBackstory5: Assobiando para a brisa da natureza.
+SolynBackstory6: Quanto a mim... buscar o elusivo sempre foi uma obsessao minha.
+SolynBackstory7:
+	'''
+	O desejo ardente de saber queima desde que eu era uma garota.
+	O desejo de estar proxima do nosso criador.
+	'''
+SolynBackstory8: Neste aspecto, quase ninguem teve as oportunidades que eu tive.
+SolynBackstory9: E ainda assim... agora so posso me perguntar se meus velhos amigos sentem minha falta como eu sinto a deles.
+SolynTestBuildup1: Tive a sorte de nascer proxima no tempo a um evento especial em que todos os planetas do nosso sistema se alinham.
+SolynTestBuildup2: Acredita-se que quando isso acontece, nosso criador brevemente olha para o nosso mundo.
+SolynTestBuildup3: Naquele momento, fiz algo nunca feito antes.
+SolynTestBuildup4: Usando meu conjunto de artefatos ocultos e magias antigas, invoquei um reconhecimento, desejando conhecimento e compreensao finais.
+SolynTestBuildup5: Estava claro que a oportunidade nunca mais se apresentaria a mim.
+SolynTestBuildup6: A proxima coisa que soube... eu estava na presenca de um ser impossivel, cercada por uma beleza natural como nenhuma que eu havia testemunhado antes.
+SolynTestBuildup7: Senti que na busca pelo que procurava, minha determinacao seria testada.
+SolynTestBuildup8: E entao...
+SolynTestBuildup9: Eu falhei.
