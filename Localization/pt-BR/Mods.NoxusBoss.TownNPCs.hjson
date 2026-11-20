@@ -1,0 +1,207 @@
+MerchantChat: {
+	RiftEclipse_Morning1: Espada vence papel! Compre uma hoje.
+	RiftEclipse_Morning2: Voce quer macas? Voce quer cenouras? Voce quer abacaxis? Temos tochas.
+	RiftEclipse_Morning3: Uma manha bem sombria. Felizmente, nao existe hora errada para trocar algumas moedas de ouro!
+	RiftEclipse_Afternoon1: Todo mundo tem se interessado menos por negocios desde que aquela fenda apareceu no ceu. Fico feliz que voce pelo menos parece nao se importar!
+	RiftEclipse_Afternoon2: Tem estado bem frio ultimamente. Posso te interessar por artigos de vestuario com precos exorbitantes?
+	RiftEclipse_Afternoon3: Confira meus blocos de neve; eles sao extra nevados.
+	RiftEclipse_Evening1: A noite chegara em breve, amigo. Faca suas escolhas enquanto pode.
+	RiftEclipse_Evening2: Voce nao tem ideia de quanto os Blocos de Neve vendem no exterior.
+	RiftEclipse_Evening3: Nao, eu nao ofereco descontos de fim do mundo.
+	RiftEclipse_Nightfall1: Claro, tudo esta escuro e assustador, mas voce considerou comprar algumas tochas?
+	RiftEclipse_Nightfall2: Nem o apocalipse pode parar o capitalismo. Vamos fazer alguns negocios.
+	RiftEclipse_Nightfall3: Ofertas quentes em um mundo frio! Brincadeira.
+	RiftEclipse_Midnight1: A escuridao cai, os precos sobem!
+	RiftEclipse_Midnight2: Noite eterna, frio crescente, perdição iminente? Parece o momento perfeito para comprar uma bateria. Confie em mim, vai fazer sentido depois. Talvez.
+	RiftEclipse_Midnight3: Eu me pergunto se a lua e feita de queijo... ha, o que? Ah sim, compre alguma coisa!
+	RiftEclipse_NightsEnd1: Ouvi dizer que ha um tesouro secreto... ah, deixa pra la.
+	RiftEclipse_NightsEnd2: Estatua de Anjo, voce diz? Desculpe, nao sou um negociante de lixo.
+}
+
+NurseChat: {
+	RiftEclipse_Above66PercentHP1: Receio nao oferecer servicos de saude mental.
+	RiftEclipse_Above66PercentHP2: Mostre onde doi.
+	RiftEclipse_Above66PercentHP3: Voce tem certeza que isso e importante?
+	RiftEclipse_Above66PercentHP4: Vire a cabeca e tussa.
+	RiftEclipse_Below66PercentHP1: Isso vai precisar de pontos!
+	RiftEclipse_Below66PercentHP2: O que DIABOS voce tem feito, acabando com ferimentos tao estranhos vez apos vez?
+	RiftEclipse_Below66PercentHP3: Nao e TAO ruim.
+	RiftEclipse_Below33PercentHP1: Eca... O que aconteceu com o seu rosto?
+	RiftEclipse_Below33PercentHP2: MEU DEUS! Eu sou boa, mas nao sou TAO boa.
+	RiftEclipse_Below33PercentHP3: Voce deixou seu braco ali. Deixe-me pegar isso para voce...
+	RiftEclipse_Below33PercentHP4: Voce tem certeza que ser um aventureiro e a escolha de ocupacao que quer manter?
+	RiftEclipse_BurnDebuff: Parece que voce esta atualmente em chamas.
+	RiftEclipse_Demolitionist: Eu queria que {0} fosse mais cuidadoso. Ele ficou ainda mais imprudente do que era antes.
+}
+
+DemolitionistChat: {
+	RiftEclipse1: E um bom dia para morrer!
+	RiftEclipse2: Voce se importa se eu explodir tudo com um estrondo? Ja que todos vamos- Nao? Tudo bem.
+	RiftEclipse3: Aquela coisa estranha no ceu... Voce acha que poderiamos explodi-la?
+	RiftEclipse4: Eu me pergunto o que acontece se eu... (BOOM!)... Ah, desculpe, voce precisava daquela perna?
+	RiftEclipse5: Explodir gelo e demais! Se tiver sorte, havera estilhacos!
+	RiftEclipse6: PROIBIDO FUMAR AQUI!!
+	RiftEclipse7: Ei, voce poderia assinar esta Autorizacao de Dano Colateral?
+	RiftEclipse8: Posso te interessar por alguns escombros fumegantes?
+	RiftEclipse9: Imprudente? Nao! Estou mais vivo do que nunca!
+	RiftEclipse10: O ar seco e agourento e maravilhoso para meus explosivos!
+	RiftEclipse11: Por que purificar o mundo quando voce pode simplesmente explodir tudo?
+	RiftEclipse12: Por que todo mundo esta tao preocupado comigo ultimamente? Estou apenas me divertindo!
+}
+
+DyeTraderChat: {
+	RiftEclipse1: Ah meu Deus! Tudo parece muito mais sem graca ultimamente...
+	RiftEclipse2: Embora seu traje tenha ficado impressionante, voce DEVE considerar tingi-lo para aquele toque extra especial!
+	RiftEclipse3: Cor e vivacidade sao o tempero da vida! Parece que algo especial se perdeu na ausencia delas.
+	RiftEclipse4: Suponho que a dessaturacao tenha seus usos...
+	RiftEclipse5: Minha flora nao conseguira suportar estas condicoes para sempre!
+	RiftEclipse6: E em momentos como estes que apreciamos a beleza deste mundo.
+	GoodDyeEasterEgg: Ei... esta tinta nao e ruim. E muito boa, na verdade.
+}
+
+AnglerChat: {
+	RiftEclipse1: Ah, as atrocidades! Ninguem vai salvar os peixes?!
+	RiftEclipse2: Sabe, se nao fosse pelo fim do mundo chegando, esta seria a hora perfeita para uma pescaria.
+	RiftEclipse3: Se todos vamos morrer de qualquer forma, eu prefiro morrer com um peixe na mao.
+	RiftEclipse4: Voce ainda vai pescar coisas para mim, certo?
+	# I assume that 0 means the NPC name is picked in the code from examples above, so ive added it here too.
+	RiftEclipse_Merchant: Tentei conseguir uma isca com desconto com {0}, mas aparentemente nem o apocalipse e suficiente para conseguir um desconto!
+	RiftEclipse1_QuestAvailable: Se voce pensou que eu ia te deixar escapar so porque os lagos congelaram, entao esta errado! Agora me traga alguns peixes!
+	RiftEclipse2_QuestAvailable: Onde voce pensa que vai? O apocalipse e o momento ideal para conseguir alguns peixes mutantes de tempo limitado!
+}
+
+ZoologistChat: {
+	RiftEclipse1: A natureza nao esta indo muito bem agora...
+	RiftEclipse2: Os animais, para onde foram? Sinto falta deles.
+	RiftEclipse3: Isso e tipo, muito ruim! Esta fazendo meu pelo ficar em pé.
+	RiftEclipse4: Eu me pergunto o que meu irmao mais velho pensaria de tudo isso...
+	RiftEclipse5: Minhas orelhas estao taaao frias!
+	RiftEclipseNight1: Sabe, eu meio que sinto falta da lua...
+	RiftEclipseNight2: Tudo parece tao... parado.
+	RiftEclipseNight3: Voce gostaria de, tipo, conversar um pouco para passar o tempo?
+	RiftEclipseNight4: Meus instintos estao totalmente a flor da pele. Tudo e tao assustador!
+}
+
+DryadChat: {
+	RiftEclipse1: Este vento uivante nao e natural.
+	RiftEclipse2: Parece que tudo comecou a murchar.
+	RiftEclipse3: Terraria precisa de voce agora mais do que nunca!
+	RiftEclipse4: Devo admitir, estou impressionada com o quao bem os outros estao lidando com tudo isso.
+	RiftEclipse5: As areias do tempo estao fluindo. Por quanto tempo mais seremos levados por elas?
+	RiftEclipse6: Suas vitorias ate agora tem sido louaveis. Pelo nosso bem, espero que voce de alguma forma consiga salvar este mundo.
+	RiftEclipse7: A natureza treme...
+	RiftEclipse8: Voce precisa ter sucesso.
+	RiftEclipse9: Eu me sinto... mais fraca que o normal.
+	RiftEclipse10: Dizer que as coisas estao graves seria um eufemismo...
+	RiftEclipse11: Voce consegue sentir o ar pesado?
+	RiftEclipse12: Boa sorte, {0}.
+	RiftEclipse_Corruption1: Eu ja pensei que a corrupcao seria nossa maior ameaca, ignorando meras circunstancias.
+	RiftEclipse_Crimson1: Eu ja pensei que o carmesim seria nossa maior ameaca, ignorando meras circunstancias.
+}
+
+PainterChat: {
+	RiftEclipse1: Materiais estao um pouco mais dificeis de conseguir ultimamente.
+	RiftEclipse2: A fenda no ceu... ela me inspira tanto! O por do sol que ela cria pode ser suave, mas os breves flashes de cor sao os mais brilhantes do mundo inteiro!
+	RiftEclipse3: Cores escuras podem ser tao valiosas quanto cores claras.
+	RiftEclipse4: Devo confessar que as coisas estao um pouco mais melancolicas ultimamente. Mais um motivo para pintar.
+	RiftEclipse5: Nao, nao, nao... Ha TONELADAS de cinzas diferentes! Basta olhar ao redor!
+	RiftEclipse6: Voce considerou ciano e vermelho rosado sobre branco?
+	RiftEclipseSnow: Estas nevascas sao algumas das mais grandiosas exibicoes que ja testemunhei!
+	ArtisticCatharsis: Voce deveria parar de se referir a azul-petroleo e lima como verde, AGORA!
+}
+
+ArmsDealerChat: {
+	RiftEclipse1: Desde que o sol foi obscurecido, tenho lucrado muito com vendas de municao!
+	RiftEclipse2: Receio que atirar na coisa no ceu nao funcione. Eu tentei.
+	RiftEclipse3: Voce ja ouviu falar da S.D.M.G.? Dizem que e ainda mais legal que a Minishark.
+	RiftEclipse4: Finalidade? Morte? Tudo bem, eu lido com isso diariamente.
+	RiftEclipse5: O silencio e um saco. Menos coisas para matar.
+	RiftEclipse6: Todos disseram que eu era 'louco', mas logo meu estoque vai valer a pena!
+	RiftEclipseNight: Muitas coisas mudaram, mas olhos demoniacos servindo como excelente alvo de pratica nao e uma delas!
+	RiftEclipseSnow: Boa sorte mirando nestas condicoes!
+	RiftEclipse_Demolitionist: Nao conte a ele que eu disse isso, mas {0} tem me assustado ultimamente. Ele esta sombriamente indiferente as coisas.
+	GFB: Ei amigo, voce sabia que e nosso direito dado por Deus portar armas?
+}
+
+TavernkeepChat: {
+	RiftEclipse1: Voce gostaria de uma cerveja nestes tempos dificeis?
+	RiftEclipse2: Como chegamos aqui?
+	RiftEclipse3: Muita tenacidade e um pouco de sorte podem ir longe...
+	RiftEclipse4: Aquele portal no ceu e bem diferente do que eu testemunhei.
+	RiftEclipse5: Sabe, eu meio que queria que aquele portal no ceu estivesse relacionado ao Exercito do Antigo. Goblins infinitos caindo do ceu seriam uma visao e tanto.
+	RiftEclipse6: Isso e um grande upgrade de limpar aquela mesa o dia todo.
+	RiftEclipse7: Bem silencioso la fora. Um pouco silencioso demais...
+	RiftEclipse_Dryad: Mais cedo hoje fiquei surpreso ao ver {0} passar para beber algo em vez de conversar.
+}
+
+StylistChat: {
+	RiftEclipse1: Nao gosto da escuridao perpétua. Tenho medo de que algo possa rastejar dela.
+	RiftEclipse2: Meu Deus! Quase todo mundo parece mais distante e... desleixado do que costumava ser.
+	RiftEclipse3: Para voce acho que faremos algo... de baixa manutencao.
+	RiftEclipse4: So um pouquinho do topo? Isso nao tem graca...
+	RiftEclipse5: Ah, meu Deus! As fofocas ficaram quietas ultimamente...
+	RiftEclipse6: O clima estranho recente me fez ficar dentro de casa! Nao quero que todo o meu trabalho duro seja desfeito.
+	RiftEclipse7: 'Curtinho atras e nas laterais', certo?
+	Solyn: Aquela garota doce, Solyn! Tentei melhorar o cabelo dela uma vez, mas aquela mecha selvagem em forma de estrela no topo da cabeca dela se recusou a ceder!
+}
+
+GoblinTinkererChat: {
+	RiftEclipse1: Portal eldritch bloqueando o sol? Tenho exatamente o gadget para isso!
+	RiftEclipse2: Adeus 'energia solar'...
+	RiftEclipse3: Horrores cosmicos inclinando as escalas universais de poder, hein? Me de alguns minutos.
+	RiftEclipse4: Sem sol? Sem problema! Nos faremos o nosso proprio!
+}
+
+PartyGirlChat: {
+	RiftEclipse1: A escuridao e otima! E como poder ter festas noturnas, so que elas nunca acabam!!
+	RiftEclipse2: Eu fui a Suecia uma vez. Eles festejam muito. Por que voce nao e assim?
+	RiftEclipse3: Nao e otimo? Agora posso usar meus fogos de artificio a qualquer hora do dia!
+	RiftEclipse4: Voce festeja? As vezes? Hm, ta bem, entao podemos conversar...
+	RiftEclipse5: Voce viu meu canhao de festa, por acaso? Se eu o recuperar, teremos a MELHOR festa de TODAS!
+	RiftEclipse6: Ai meu Deus ai meu Deus ai meu Deus!! Finalmente posso dar minha primeira festa de escuridao sem fim em breve! Voce vai amar!!
+	RiftEclipseSnow1: Ooh!! Eu AMO neve!! E perfeita para festas de bolas de neve!
+}
+
+PirateChat: {
+	RiftEclipse1: Argh... Voce acha que e tarde demais para abandonar o navio?
+	RiftEclipse2: Isso me lembra os contos de uma extensao traicioneira do mar profundo! O ceu esta tao escuro quanto o Cofre de Davy Jones!
+	RiftEclipse3: Eu sou o modelo perfeito de um pirata neste vendaval assustador, o clima la fora e sobrenatural, com uma trilha escorregadia e arriscada! Yarrr!
+	RiftEclipse4: A tempestade que afundou meu navio era muito parecida com esta borrasca. Arr, a tempestade implacavel deixou nossa embarcacao a merce da ira de Poseidon!
+	RiftEclipse5: Arr, aquela coisa no ceu lembra o redemoinho do kraken. Prepare-se, pois as bestas misticas das profundezas podem muito bem ser libertadas sobre nos!
+	RiftEclipse6: Bilhoes de cracas azuis fervilhantes! Este vendaval nevado e mais frio que- que sorvete de hortela!
+	RiftEclipse_BeforeFrozenSea1: Que os deuses do mar mostrem misericordia a quaisquer almas corajosas em aguas abertas. Yarrr!
+	RiftEclipse_AfterFrozenSea1: Malditos mares congelados! Um marinheiro quer ondas, nao essa bagunca gelada. Yargh!
+	RiftEclipse_AfterFrozenSea2: Uma maldicao caiu sobre estes mares! Para sempre permanecerei um homem de terra...
+}
+
+WizardChat: {
+	RiftEclipse1: Alguem roubou meu livro de feiticos 'Acabe com o Mundo com Escuridao Eterna' de novo?
+	RiftEclipse2: Olhei fundo na minha bola de cristal, e descobri que o verdadeiro tesouro eram os amigos ignorados em favor do combate!
+	RiftEclipse3: Alguem uma vez me disse que amizade e magica. Isso e ridiculo. Voce nao pode transformar pessoas em sapos com amizade.
+	RiftEclipse4: Eu? Despreocupado, voce diz? Vivi o suficiente para ver tempos MUITO mais interessantes!
+	RiftEclipse5: Voce ja ouviu falar de overdose de pocao de mana? Um destino sombrio, de fato...
+	RiftEclipse6: Posso ler sua mente... Voce esta ignorando tudo que estou dizendo, e so se importa com algum item aleatorio que eu por acaso vendo!
+	RiftEclipse7: Uma vez tentei dar vida a uma Estatua de Anjo. Nao fez nada.
+	RiftEclipsePremonition: Olhei profundamente na bola de cristal. Parece que algo sombrio chegara.
+	SolynAcknowledgement: Sabe, Solyn parece bastante habilidosa em magia! Talvez ela ate saiba coisas que eu nao sei...
+}
+
+TravelingMerchantChat.RiftEclipse1: Vendo mercadorias de lugares que podem nao existir mais!
+
+SkeletonMerchantChat: {
+	RiftEclipse1: Ouvi dizer que esta granizando o dia todo. Nao vou sair nesse clima de arrepiar os ossos!
+	RiftEclipse2: O mundo esta acabando? Voce so pode estar brincando comigo! ...Espere, nao, deixa pra la. Ainda esta la.
+	RiftEclipse3: Nao ha doenca ou condicao que nao possa ser curada com um pouco do meu Oleo de Slime! Confie em mim, funciona, so olhe para minha figura animada!
+	RiftEclipse4: Espere... eu estou morto. Por que eu me importo com dinheiro?
+	RiftEclipse5: Fique longe das aranhas. Elas vao sugar suas entranhas e te deixar uma casca vazia de homem. Confie em mim nessa.
+	RiftEclipse6: Voce parece bem forte. Devo admitir, estou surpreso que voce ate parou para dizer oi.
+	RiftEclipseOnSurface: O que? A vida esta em grave perigo? Isso e bastante preocupante. Ainda bem que nao estou vivo.
+	RiftEclipseUnderground: O que? A vida na superficie esta em grave perigo? Isso e bastante preocupante. Ainda bem que nao estou vivo nem na superficie.
+}
+
+ElderSlimeChat.RiftEclipse: O universo treme. Todos pereceremos em breve pela mao do frio despreocupado. Bloop.
+PermafrostChat.Saved:
+	'''
+	Devo te agradecer imensamente por me libertar daquela prisao fria.
+	Aqui, pegue isto, como um simbolo de gratidao. Tenho certeza que voce encontrara algum uso para isso.
+	'''
